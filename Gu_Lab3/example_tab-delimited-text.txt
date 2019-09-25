@@ -1,0 +1,4 @@
+Sample_name	Column_1	Column_2	Columns_3
+Mouse	0.46	0.21	0.59
+Rat	0.97	0.88	0.34
+Human	0.01	0.23	0.13

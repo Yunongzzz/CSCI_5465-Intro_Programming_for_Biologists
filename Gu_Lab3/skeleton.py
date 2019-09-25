@@ -81,7 +81,7 @@ with open('Hsp90_conserved.txt','r') as fin:
 				fout.write(str(percent_positive_aa_whole_seq))
 				fout.write('\t')
 				fout.write(str(percent_negative_aa_whole_seq))
-				fout.write('\t')
+				fout.write('\n')
 
 
 

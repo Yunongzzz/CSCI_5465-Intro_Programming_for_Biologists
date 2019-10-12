@@ -1,0 +1,5 @@
+IndividualID 	 variantID 	 GeneDiseaseInfo 
+NA11881	rs3900115	CASP10|synonymous|Caspase10,apoptosis-relatedcysteineprotease|Autoimmunelymphoproliferativesyndrome,typeII,603909(3);Non-Hodgkinlymphoma,somatic,605027(3);Gastriccancer,somatic,613659(3)
+NA12045	rs13010627	CASP10|nonsynonymous|Caspase10,apoptosis-relatedcysteineprotease|Autoimmunelymphoproliferativesyndrome,typeII,603909(3);Non-Hodgkinlymphoma,somatic,605027(3);Gastriccancer,somatic,613659(3)
+NA12044	rs17860405	CASP10|nonsynonymous|Caspase10,apoptosis-relatedcysteineprotease|Autoimmunelymphoproliferativesyndrome,typeII,603909(3);Non-Hodgkinlymphoma,somatic,605027(3);Gastriccancer,somatic,613659(3)
+NA12043	rs13006529	CASP10|nonsynonymous|Caspase10,apoptosis-relatedcysteineprotease|Autoimmunelymphoproliferativesyndrome,typeII,603909(3);Non-Hodgkinlymphoma,somatic,605027(3);Gastriccancer,somatic,613659(3)

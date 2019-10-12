@@ -1,0 +1,35 @@
+Answers for Questions in Part I 
+ 
+ Q1. Find and print the ids of the SNPs in the population that occur with the highest and lowest frequency. 
+ 
+ 
+SNP_ids_Highest_Frequency 	 
+ 
+rs1049500	rs28362397	rs41281479	rs9678851	rs61748090	rs7558708	rs3731958	rs34995577	rs2116665	rs17266469	rs4556933	rs35941588	rs12692566	rs12468507	rs34702313	rs34442850	rs16822581	rs2271381	rs34753364	rs1050354	rs6737615	rs13018796	rs10183463	rs35883486	rs61735648	rs2118548	rs13010627	rs13006529	rs2303564	rs41272683	rs3731876	rs6436153	rs13018234	rs28930679	rs11556887	rs2289912	rs2305138	rs12328151	rs34424361	rs593668	rs2270671	rs1131296	rs10201909	rs34558385	rs2646258	rs10084221	rs2646265	rs36117715	rs2645774	rs35114079	rs12622093	rs34978064	rs61754649	rs1063639	
+ 
+ 
+SNP_ids_Lowest_Frequency 	 
+ 
+rs4670696	rs34873284	rs61749494	rs887987	rs724710	rs419598	rs315952	rs11684353	rs2305165	rs7594480	rs17827158	rs2729705	rs3951216	rs34592866	rs1801262	rs2271767	rs61735649	rs17819382	rs61752202	rs13022721	rs2303562	rs16859170	rs3731877	rs11695248	rs1105879	rs11690358	rs61729844	rs12614632	rs2240539	rs3796093	
+ 
+ 
+Q2. Write your own function that calculates the mean of a list (input: a list, output: that list's mean). Calculate the mean across all SNP frequencies in the population. 
+ 
+ 
+My self-Defined function is in the line 142 - 150, it's name is 'mean_frequency', and the mean across all SNP frequencies in the population is in the following: 
+ 
+0.2649462365591398
+ 
+ 
+ 
+ 
+Answers for Questions in Part II 
+ 
+ Q1. Cross-reference the file you created that contains SNP frequencies (slim_chr2_SNPs_withfrequencies.vcf) and compare frequencies of synonymous versus nonsynonymous SNPs 
+ 
+ 
+Average_Frequency_Synonymous_SNPs 	 Average_Frequency_Non_Synonymous_SNPs 
+ 
+	0.2649462365591398	 	 	 	 	0.26355555555555554
+ 
+And we could obviously concluded that the average of the frequencies of the synonymous SNPs is a little bit greater than the average of the frequencies of the non synonymous SNps. 
